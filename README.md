@@ -1,1 +1,1 @@
-# CMPT762A6
+# Deep Learning with PyTorch
